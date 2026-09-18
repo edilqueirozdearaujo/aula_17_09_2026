@@ -10,7 +10,8 @@ public class ObjetosAnimais {
 		
 		/*
 		Declare o vetor e depois inicialize cada item do vetor.
-		O loop acima economiza esse trabalho (imagina objetos isolados!):
+		Na verdade, poderia ter declarado na forma direta também.
+		O loop acima economiza trabalho (imagina objetos isolados!):
 		Animal animal0 = new Animal();
 		Animal animal1 = new Animal();
 		Animal animal2 = new Animal();
